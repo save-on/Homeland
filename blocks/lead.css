@@ -1,0 +1,34 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lead__title {
+  color: #fff;
+  font-family: Inter, Arial, sans-serif;
+  line-height: 100px;
+  font-weight: 900;
+  font-size: 6em;
+  width: 793px;
+  height: 200px;
+  text-align: center;
+  margin: 90px 0 32px;
+}
+
+.lead__sub-title {
+  color: #fff;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.875em;
+  width: 720px;
+  height: 72px;
+  text-align: center;
+  margin: 0 0 64px;
+}
+
+.lead__image {
+  max-width: 984px;
+  height: 615px;
+  filter: grayscale(100%);
+}
