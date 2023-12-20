@@ -1,0 +1,23 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  font-family: Inter, Arial, sans-serif;
+  color: #fff;
+  padding: 0 24px;
+  margin-left: 124px;
+}
+
+.intro__title {
+  font-size: 3.375em;
+  font-weight: 900;
+  line-height: 58px;
+  width: 785px;
+  height: 116px;
+  margin: 92px 0 0;
+}
+
+.intro__quote {
+  font-size: 1.5em;
+  width: 720px;
+  height: 102px;
+}
