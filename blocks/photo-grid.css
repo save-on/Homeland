@@ -1,0 +1,21 @@
+.photo-grid {
+  max-width: 100%;
+}
+
+.photo-grid__container {
+  display: flex;
+  max-width: 1184px;
+  min-height: 442px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.photo-grid__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 284px);
+  list-style-type: none;
+  margin: 0 auto;
+  max-width: 100%;
+  grid-gap: 16px;
+  padding: 0;
+}
