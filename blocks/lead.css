@@ -13,6 +13,7 @@
   max-width: 793px;
   min-height: 200px;
   margin: 90px auto 32px;
+  padding: 0 24px;
 }
 
 .lead__sub-title {
@@ -21,6 +22,7 @@
   max-width: 720px;
   min-height: 72px;
   margin: 0 auto 64px;
+  padding: 0 24px;
 }
 
 .lead__image {
